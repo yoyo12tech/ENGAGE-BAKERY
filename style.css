@@ -7,14 +7,19 @@
 }
 
 .bg{
-    position: relative;
     background: url("./pics/bg_bakery.jpg") no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
     height: auto;
     min-height: 100dvh;
+}
+.bg-overlay{
+    position: relative;
     padding-top: 13.5%;
+    min-height: 100dvh;
+    background-color: rgba(0, 0, 0, 0.235);
+    
 }
 header{
     background-color: #efb0b000;
