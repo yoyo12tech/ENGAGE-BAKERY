@@ -369,9 +369,10 @@ text-align: center; centers inline or inline-block elements (like <img>) horizon
 }
 .bl div ul li p>#bp{
     display: inline;
-    margin-left: 3.79vw;
+    margin-left: 4.6vw;
     vertical-align: top;
     font-size:1.2vw ;
+    font-weight: normal;
     
 }
 .bl div ul li span{
