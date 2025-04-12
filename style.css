@@ -323,8 +323,8 @@ text-align: center; centers inline or inline-block elements (like <img>) horizon
     float: left;
     width: calc(100%/4);
     padding: 1vw 2vw;
-    line-height: 2.2vw;
-    font-size: 1.5vw;
+    line-height: 1.8vw;
+    font-size: 1.2vw;
 
 
 }
@@ -353,18 +353,37 @@ text-align: center; centers inline or inline-block elements (like <img>) horizon
     margin-top: 0.7vw;
 
 }
+.bl div ul .cdli{
+    line-height: 2vw;
+    margin-bottom: 0.7vw;
+    margin-top: 0.7vw;
+    width: 150%;
+
+}
+
+
+.bl div ul li p{
+    display: inline;
+    margin-left: 0.11vw;
+    vertical-align: top;
+}
+.bl div ul li p>#bp{
+    display: inline;
+    margin-left: 3.79vw;
+    vertical-align: top;
+    font-size:1.2vw ;
+    
+}
 .bl div ul li span{
     font-size: 1.8vw;
     font-weight: 500;
-    margin-right: 1vw;
-    vertical-align: bottom;
-    transform: scaleY(33.2);
+    margin-right: 0.0000001vw;
+    vertical-align: top;
 }
 hr {
     border: none; /* Remove default border */
     border-top: 1px solid rgba(106, 105, 105, 0.333);
 }
-
 .cd>ul{
     background: url("./pics/contact-details-map.png") no-repeat;
     background-size: contain;
