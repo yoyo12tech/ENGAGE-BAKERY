@@ -314,7 +314,7 @@ text-align: center; centers inline or inline-block elements (like <img>) horizon
 */
 .map-bg{
     background-color: #403D38;
-    color: #838282;
+    color: #969696;
 }
 .bl{
     padding: 1vw;
@@ -377,7 +377,7 @@ text-align: center; centers inline or inline-block elements (like <img>) horizon
 .bl div ul li span{
     font-size: 1.8vw;
     font-weight: 500;
-    margin-right: 0.0000001vw;
+    margin-right: 0.8vw;
     vertical-align: top;
 }
 hr {
